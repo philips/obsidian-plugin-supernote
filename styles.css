@@ -13,3 +13,18 @@
 .theme-light img.supernote-invert-light {
     filter: invert(1);
 }
+
+button.mod-cta {
+    display: block;
+}
+
+.page-recognized-text {
+    user-select: text; 
+    white-space: pre-line; 
+    margin-top: 1.2em;
+}
+
+div.page-container {
+    display: inline-block; 
+    vertical-align: top;
+}
